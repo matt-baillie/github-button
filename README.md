@@ -63,7 +63,7 @@ npm install --save @cicciosgamino/github-button
 3. Place in your HTML
 ```html
 <github-button
-  link="https://github.com/CICCIOSGAMINO/github-button.git">
+  link="https://github.com/matt-baillie/github-button.git">
 </github-button>
 ```
 
@@ -71,9 +71,11 @@ npm install --save @cicciosgamino/github-button
 
 ## 📒 Properties/Attributes
 
-|    Name    |  Type   | Default  |  Description
-| ---------- | ------- | -------- | --------------
-|  link      | String  |   `''`   | Github Absolute / Relative path to user / project
+|    Name         |  Type   | Default     |  Description
+| --------------- | ------- | ----------- | --------------
+|  link           | String  |   `''`      | Github Absolute / Relative path to user / project
+|  newwindow      | String  |   `false`   | Attribute to control whether link is opened in a new        |                 |         |             | window/tab or in the current window
+
 
 ## Methods
 *None*
@@ -83,9 +85,10 @@ npm install --save @cicciosgamino/github-button
 
 ## 🧁 CSS Custom Properties
 
-|       Name      | Default | Description
-| --------------- | ------- | --------------------
-| `--icon-color`  | `#000`  | SVG fill attribute
+|       Name           | Default | Description
+| -------------------- | ------- | --------------------
+| `--icon-color`       | `#000`  | SVG fill attribute
+| `--background-color` | `#fff`  | SVG background color
 
 ## 💪 Accessibility
 Acessibility is guaranted with the use of a button with the *title* and *aria-label* set on it.SVG icons inside the inner button are set *role=img*,*aria-hidden="true"*,*focusable="false"* .
