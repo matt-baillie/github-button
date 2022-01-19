@@ -20,7 +20,7 @@ class GithubButton extends LitElement {
         /* reset */
         border: none;
         background: none;
-        background-color: var(--background-color, yellow);
+        background-color: var(--background-color, #fff);
         color: inherit;
         outline: inherit;
         line-height: 0;

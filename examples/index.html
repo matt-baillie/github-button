@@ -57,7 +57,7 @@
     github-button {
       width: 64px;
       height: 64px;
-      --background-color: magenta;
+      /* --background-color: magenta; */
       --icon-color: #333;
     }
   </style>
@@ -73,7 +73,7 @@
   <main>
 
     <github-button
-      link="CICCIOSGAMINO/github-button.git"
+      link="matt-baillie/github-button.git"
       newwindow="true">
     </github-button>
 
@@ -84,8 +84,12 @@
   </noscript>
 
   <!-- Import Js Module -->
-  <script type="module" src="../github-button.js"></script>
-  <script>
+  
+  <!-- <script type="module" src="../github-button.js"></script> -->
+  <script type="module" > import  '@matt-baillie/github-button' </script>
+
+<script>
+
     window.addEventListener('DOMContentLoaded', _ => {
       console.log('@DOM-READY')
     })

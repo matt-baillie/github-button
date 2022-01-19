@@ -1,6 +1,6 @@
 {
-  "name": "@cicciosgamino/github-button",
-  "version": "1.1.0",
+  "name": "@matt-baillie/github-button",
+  "version": "1.1.1",
   "description": "Simple github button",
   "main": "github-button.js",
   "type": "module",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CICCIOSGAMINO/github-button.git"
+    "url": "git+https://github.com/matt-baillie/github-button.git"
   },
   "keywords": [
     "Gihub",
@@ -25,10 +25,11 @@
   "license": "GPL-3.0",
   "private": false,
   "bugs": {
-    "url": "https://github.com/CICCIOSGAMINO/github-button/issues"
+    "url": "https://github.com/matt-baillie/github-button/issues"
   },
-  "homepage": "https://github.com/CICCIOSGAMINO/github-button#readme",
+  "homepage": "https://github.com/matt-baillie/github-button#readme",
   "dependencies": {
+    "@matt-baillie/github-button": "^1.1.0",
     "lit": "*"
   },
   "devDependencies": {
