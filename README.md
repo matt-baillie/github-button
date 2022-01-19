@@ -100,13 +100,13 @@ Acessibility is guaranted with the use of a button with the _title_ and _aria-la
 
 ## Latest Editor
 
-| [![@matt-baillie](https://drive.google.com/file/d/1kxDW7D_4JQW42gE6J44EW12vtNhngPiP/view?usp=sharing)](https://www.linkedin.com/in/matt-baillie/) |
+| [![@matt-baillie]](https://www.linkedin.com/in/matt-baillie/) |
 
 ## Original Author
 
-| [![@cicciosgamino](https://raw.githubusercontent.com/CICCIOSGAMINO/cicciosgamino.github.io/master/images/justme%40412x412_round.png)](https://www.linkedin.com/in/marco-canali-859b6a52/) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                    **@cicciosgamino**                                                                                     |
+| [![@cicciosgamino]](https://www.linkedin.com/in/marco-canali-859b6a52/) |
+| :---------------------------------------------------------------------: |
+|                           **@cicciosgamino**                            |
 
 ## Support
 
