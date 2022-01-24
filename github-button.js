@@ -1,12 +1,13 @@
 import { LitElement, html, css } from 'lit'
 
-class GithubButton extends LitElement {
+export class GithubButton extends LitElement {
   static get styles () {
     return css`
       * {
         margin: 0;
         padding: 0;
-        // --icon-color: purple;
+        --icon-color: purple;
+        --background-color: blue;
       }
 
       :host {
@@ -105,3 +106,4 @@ class GithubButton extends LitElement {
 }
 
 customElements.define('github-button', GithubButton)
+ 

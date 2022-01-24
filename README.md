@@ -103,7 +103,6 @@ Acessibility is guaranted with the use of a button with the _title_ and _aria-la
 | [![@matt-baillie]](https://www.linkedin.com/in/matt-baillie/) |
 | :-----------------------------------------------------------: |
 |                       **@matt-baillie**                       |
-|                     [![@matt-baillie]]()                      |
 
 ## Original Author
 
